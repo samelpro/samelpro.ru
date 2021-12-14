@@ -1,0 +1,72 @@
+.sea {
+	text-decoration: none;
+	font-size: 20px;
+	color: #091a42;
+	:font-family: Arial;
+	font-weight: bold;
+}
+.fon-menu {
+	padding-right: 20px;
+	padding-left: 20px;
+	background-image: url(ptichka250.png);
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-clip: content-box;
+ }
+.menu {
+ 	text-decoration: none;
+ 	font-size: 20px;
+ 	color: #091a42;
+ 	font-family: Arial;
+ 	font-weight: bold;
+ }
+		.menu:hover {
+		text-shadow: 1px 1px 2px, 0 0 1em;
+		}
+.menu-position {
+	margin-top: 200px;
+	background-color: #ffffff;
+	}
+.menu-position-center {
+	margin:0 auto;
+	width: 580px;
+	}
+.site-fon {
+	background-image: url(project015.jpg);
+ 	margin-top: 20px;
+ 	margin-bottom: 0px;
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+	background-attachment: fixed;
+ }
+.podval {
+ 	height: 70px;
+ 	color: #FFFFFF;
+	background-color: #000000;
+ 	text-align: center;
+ 	font-weight: normal;
+ } 
+.main-table {
+ 	background-color: rgb(255, 255, 255);
+ 	width: 1000px;
+ 	box-shadow: 0 0 30px 1px;
+ 	
+ 	vertical-align: bottom;
+ 	:border-radius: 8px 8px 0 0;
+ 	:-moz-border-radius: 8px;
+ 	
+ }
+ .down-line {
+ 	width: 892px;
+ 	color: #5876a7;
+ }
+ .down-line-cell {
+ 	height: 18px;
+ }
+ .height-menu-cell {
+ 	height: 250px;
+ }
+ .otstup-contact {
+ 	margin-left: 30px;
+ }
